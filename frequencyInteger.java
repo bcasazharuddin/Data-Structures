@@ -1,3 +1,5 @@
+//qquestion : Given a vector of N positive integers and an integer X. The task is to find the frequency of X in vector.
+
 // { Driver Code Starts
 //Initial Template for Java
 
